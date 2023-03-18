@@ -38,7 +38,7 @@ isbn
 
 rating - Ratings (`Book-Rating`) are either explicit, expressed on a scale from 1–10 (higher values denoting higher appreciation), or implicit, expressed by 0.
  
-
+========================================================================
 Following operations should be performed:
 
 Read the books dataset and explore it
